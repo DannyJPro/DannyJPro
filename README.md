@@ -14,11 +14,11 @@
 
 <br>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 370px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 270px></picture>
 	
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<img align="right" alt="GIF" height="230px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <br>
 
